@@ -12,7 +12,7 @@ A high-performance **OFDM transmitter and receiver** implemented entirely on NVI
 ## 🛠 Build Instructions
 
 ```bash
-git clone https://github.com/yourusername/ofdm-cuda-pipelined.git
+git clone https://github.com/YennetiNitinSreeVenkat/ofdm-cuda-pipelined.git
 cd ofdm-cuda-pipelined
 mkdir build && cd build
 cmake ..
